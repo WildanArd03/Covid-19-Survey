@@ -1,0 +1,6 @@
+.app-header__logo .logosrc{
+	margin-left: 5px;
+	width: 170px;
+	height: 40px;
+	background: url(../assets/images/logo-inverse.png);
+}
